@@ -10,3 +10,7 @@
 ## Application Number Three
 ## Overall Comparison
 # Archaeological Significance
+1. Digital preservation versus physical preservation
+2. The relationship between material culture and memory
+3. The limitations of digital archaeological evidence
+##
