@@ -6,7 +6,7 @@
 # Comparison Criteria
 
 | Criteria | What I am examining |
-| --- | --- |
+|---|---|
 | Shape and structre | Does the model accurately reproduce the camera's overall form? |
 | --- | --- |
 | Surface detail | Are buttons, lenses, edges and other features visible? |
