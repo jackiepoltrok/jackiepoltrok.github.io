@@ -14,7 +14,13 @@ I chose to use this camera to create a digital model for a variety of reasons. F
 Insert photos from 2007***
 
 ## The Collection Process
+I selected one physical digital camera as the object of the study. If I were to have selected something like a sculpture on campus, I would risk not being able to take photos of every angle, and not having control of the lighting could have proven an issue as well. I know that natural lighting works better for using photogrammetry. I placed the camera on my kitchen table and followed the prompts of each application.
 
+### Kiri Engine
+
+### Luma 3D
+
+### Polycam
 
 # Comparison Criteria
 
