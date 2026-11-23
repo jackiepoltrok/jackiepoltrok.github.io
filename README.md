@@ -50,8 +50,26 @@ Notes: A video-like format. Took captures as my phone camera moved around the ob
 
 # Presentation of Findings
 ## KIRI Engine
+#### Shape and structure
+#### Surface detail
+#### Texture
+#### Missing info
+#### Distortion
+#### File quality
 ## Luma 3D
+#### Shape and structure
+#### Surface detail
+#### Texture
+#### Missing info
+#### Distortion
+#### File quality
 ## Polycam
+#### Shape and structure
+#### Surface detail
+#### Texture
+#### Missing info
+#### Distortion
+#### File quality
 ## Overall Comparison
 # Archaeological Significance
 ## 1. Digital preservation versus physical preservation
