@@ -1,4 +1,4 @@
-# jackiepoltrok.github.io
+[index.html.txt](https://github.com/user-attachments/files/35303906/index.html.txt)# jackiepoltrok.github.io
 # Research Question
 ### How do different mobile photogrammetry applications digitally represent the same material object, and what do their differences reveal about the possibilities and limitations of 3D modelling in digital archaeology?
 # Connection to Archaeological Theory
@@ -23,6 +23,29 @@ Texture Resolution: 4k<br>
 Date captured: October 20, 2026<br>
 Location: Ottawa<br>
 Video tool. I moved around the object with my phone camera while recording. No obvious captures were taken, not like photos.<br>
+[Uploading index.html.txt…](<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>3D Model Viewer</title>
+  <script type="module" src="https://googleapis.com"></script>
+  <style>
+    body { margin: 0; background-color: #f4f4f4; }
+    model-viewer { width: 100vw; height: 100vh; }
+  </style>
+</head>
+<body>
+  <model-viewer 
+    src="KIRI_Engine model copy.gltf" 
+    alt="A 3D model" 
+    auto-rotate 
+    camera-controls 
+    shadow-intensity="1">
+  </model-viewer>
+</body>
+</html>)
+
 [KIRI engine.zip](https://github.com/user-attachments/files/35303657/KIRI.engine.zip)
 
 
