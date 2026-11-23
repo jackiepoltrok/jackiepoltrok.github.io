@@ -27,6 +27,7 @@ Video tool. I moved around the object with my phone camera while recording. No o
 ### Luma 3D
 Date captured: October 20, 2026<br>
 Location: Ottawa<br>
+
 Prompted me to put the object inside a virtual box that appeared on my screen while pointing my camera at the object. Three rings were positioned around the object. One towards the top, one around the middle, and one at the bottom. I was to move around the object three times to fill each ring. There were placers where my phone should be displayed on the screen to ensure I hit every angle. 
 
 ### Polycam
