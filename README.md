@@ -17,6 +17,10 @@ Insert photos from 2007***
 I selected one physical digital camera as the object of the study. If I were to have selected something like a sculpture on campus, I would risk not being able to take photos of every angle, and not having control of the lighting could have proven an issue as well. I know that natural lighting works better for using photogrammetry. I placed the camera on my kitchen table and followed the prompts of each application.
 
 ### Kiri Engine
+Scan Mode: Photo Scan<br>
+Polygon Counts: Hight<br>
+Texture Resolution: 4k<br>
+Video tool. I moved around the object with my phone camera while recording. No obvious captures were taken, not like photos.<br>
 
 ### Luma 3D
 
