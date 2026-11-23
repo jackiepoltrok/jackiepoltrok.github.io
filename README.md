@@ -15,9 +15,9 @@
 | File quality | What file formats and levels of detail does each app produce? |
 
 # Presentation of Findings
-## Application Number One
-## Application Number Two
-## Application Number Three
+## KIRI Engine
+## Luma 3D
+## Polycam
 ## Overall Comparison
 # Archaeological Significance
 ## 1. Digital preservation versus physical preservation
