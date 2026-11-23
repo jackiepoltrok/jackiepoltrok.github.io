@@ -18,13 +18,24 @@ I selected one physical digital camera as the object of the study. If I were to 
 
 ### Kiri Engine
 Scan Mode: Photo Scan<br>
-Polygon Counts: Hight<br>
+Polygon Counts: High<br>
 Texture Resolution: 4k<br>
+Date captured: October 20, 2026<br>
+Location: Ottawa<br>
 Video tool. I moved around the object with my phone camera while recording. No obvious captures were taken, not like photos.<br>
 
 ### Luma 3D
+Date captured: October 20, 2026<br>
+Location: Ottawa<br>
+Prompted me to put the object inside a virtual box that appeared on my screen while pointing my camera at the object. Three rings were positioned around the object. One towards the top, one around the middle, and one at the bottom. I was to move around the object three times to fill each ring. There were placers where my phone should be displayed on the screen to ensure I hit every angle. 
 
 ### Polycam
+Capture Method: free object mode<br>
+Detail: medium<br>
+Date captured: October 20, 2026<br>
+Number of frames: 45<br>
+Location: Ottawa<br>
+Notes: A video-like format. Took captures as my phone camera moved around the object until it prompted me that had enough to make a model.<br>
 
 # Comparison Criteria
 
