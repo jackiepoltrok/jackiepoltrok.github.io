@@ -23,6 +23,9 @@ Texture Resolution: 4k<br>
 Date captured: October 20, 2026<br>
 Location: Ottawa<br>
 Video tool. I moved around the object with my phone camera while recording. No obvious captures were taken, not like photos.<br>
+[KIRI engine.zip](https://github.com/user-attachments/files/35303657/KIRI.engine.zip)
+
+
 
 ### Luma 3D
 Date captured: October 20, 2026<br>
