@@ -62,8 +62,9 @@ Notes: A video-like format. Took captures as my phone camera moved around the ob
 #### Missing info
 #### Distortion
 #### File quality
-## Luma 3D
 
+## Luma 3D
+https://github.com/jackiepoltrok/jackiepoltrok.github.io/releases/download/v1.0/Luma.3D.Splat.ply 
 #### Shape and structure
 #### Surface detail
 #### Texture
