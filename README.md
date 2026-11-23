@@ -1,4 +1,4 @@
-[index.html.txt](https://github.com/user-attachments/files/35303906/index.html.txt)# jackiepoltrok.github.io
+# jackiepoltrok.github.io
 # Research Question
 ### How do different mobile photogrammetry applications digitally represent the same material object, and what do their differences reveal about the possibilities and limitations of 3D modelling in digital archaeology?
 # Connection to Archaeological Theory
