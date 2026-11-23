@@ -63,7 +63,7 @@ Notes: A video-like format. Took captures as my phone camera moved around the ob
 #### Distortion
 #### File quality
 ## Luma 3D
-sha256:85b279604267f4a365dea1e6625b4245f1c8017c2328b6e9cfb9e9e18723ea2f
+
 #### Shape and structure
 #### Surface detail
 #### Texture
