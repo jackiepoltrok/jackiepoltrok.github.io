@@ -23,38 +23,17 @@ Texture Resolution: 4k<br>
 Date captured: October 20, 2026<br>
 Location: Ottawa<br>
 Video tool. I moved around the object with my phone camera while recording. No obvious captures were taken, not like photos.<br>
-[Uploading index.html.txt…](<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>3D Model Viewer</title>
-  <script type="module" src="https://googleapis.com"></script>
-  <style>
-    body { margin: 0; background-color: #f4f4f4; }
-    model-viewer { width: 100vw; height: 100vh; }
-  </style>
-</head>
-<body>
-  <model-viewer 
-    src="KIRI_Engine model copy.gltf" 
-    alt="A 3D model" 
-    auto-rotate 
-    camera-controls 
-    shadow-intensity="1">
-  </model-viewer>
-</body>
-</html>)
 
-[KIRI engine.zip](https://github.com/user-attachments/files/35303657/KIRI.engine.zip)
 
 
 
 ### Luma 3D
 Date captured: October 20, 2026<br>
 Location: Ottawa<br>
+Prompted me to put the object inside a virtual box that appeared on my screen while pointing my camera at the object. Three rings were positioned around the object. One towards the top, one around the middle, and one at the bottom. I was to move around the object three times to fill each ring. There were placers where my phone should be displayed on the screen to ensure I hit every angle.<br>
+#### Splat
 
-Prompted me to put the object inside a virtual box that appeared on my screen while pointing my camera at the object. Three rings were positioned around the object. One towards the top, one around the middle, and one at the bottom. I was to move around the object three times to fill each ring. There were placers where my phone should be displayed on the screen to ensure I hit every angle. 
+
 
 ### Polycam
 Capture Method: free object mode<br>
