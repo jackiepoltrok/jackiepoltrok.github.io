@@ -72,7 +72,7 @@ https://github.com/jackiepoltrok/jackiepoltrok.github.io/releases/download/v1.0/
 #### File quality
 
 ## Polycam
-https://github.com/jackiepoltrok/jackiepoltrok.github.io/releases/tag/v2.0
+https://github.com/jackiepoltrok/jackiepoltrok.github.io/releases/download/v2.0/Polycam.glb
 #### Shape and structure
 #### Surface detail
 #### Texture
