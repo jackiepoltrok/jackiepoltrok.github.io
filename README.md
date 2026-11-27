@@ -55,7 +55,7 @@ Notes: A video-like format. Took captures as my phone camera moved around the ob
 
 # Presentation of Findings
 ## KIRI Engine
-https://github.com/jackiepoltrok/jackiepoltrok.github.io/releases/download/v3.0/3DModel.obj
+
 #### Shape and structure
 #### Surface detail
 #### Texture
