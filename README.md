@@ -33,37 +33,6 @@ Location: Ottawa<br>
 Prompted me to put the object inside a virtual box that appeared on my screen while pointing my camera at the object. Three rings were positioned around the object. One towards the top, one around the middle, and one at the bottom. I was to move around the object three times to fill each ring. There were placers where my phone should be displayed on the screen to ensure I hit every angle.<br>
 #### Splat
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-
-<style>
-   model-viewer {
-       width: 100vw;
-       height: 100vh;
-   }
-</style>
-
-<body>
-
-<!-- Use it like any other HTML element -->
-    <model-viewer
-    src="Luma 3D Splat.ply"
-    alt="avatar"
-    shadow-intensity="1"
-    camera-controls
-     >
-    </model-viewer>
-
-<!-- Import the component -->
-<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
-</body>
-</html>
-
 
 ### Polycam
 Capture Method: free object mode<br>
