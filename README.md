@@ -70,7 +70,9 @@ https://github.com/jackiepoltrok/jackiepoltrok.github.io/releases/download/v1.0/
 #### Missing info
 #### Distortion
 #### File quality
+
 ## Polycam
+https://github.com/jackiepoltrok/jackiepoltrok.github.io/releases/tag/v2.0
 #### Shape and structure
 #### Surface detail
 #### Texture
